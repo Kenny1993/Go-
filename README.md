@@ -17,6 +17,6 @@ preface.md
 
 env.md 
 
-editor
+editor.md
 
 ch01.md
